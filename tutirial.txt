@@ -1,0 +1,27 @@
+
+  `npm start`
+    Starts the development server.
+
+  `npm run build`
+    Bundles your website into static files for production.
+
+  
+`npm run serve`
+    Serves the built website locally.
+
+  `npm run deploy`
+    Publishes the website to GitHub pages.
+
+We recommend that you begin by typing:
+
+  `cd docs-site`
+  `npm start`npm ru
+
+Happy building awesome websites!
+Deploy steps
+
+Normal github steps to connect local to remote (use ssh link)
+
+follow docasaurus first 3 steps
+add env variables
+combine with github tutotial (npm build and run)
